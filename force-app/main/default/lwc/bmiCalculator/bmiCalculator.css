@@ -9,6 +9,11 @@
     --size-12:12px;
 }
 
+.app{
+    min-height: 100vh;
+    background-image: url(/sfsites/c/resource/BmiAppBackground);
+}
+
 .box{
     max-width: 420px;
     text-align:center;
