@@ -11,7 +11,7 @@
 
 .box{
     max-width: 420px;
-    text-align: center;
+    text-align:center;
     margin: auto;
     background: var(--dark-blue);
     color: var(--light-white);
@@ -31,7 +31,7 @@ h1{
     border-bottom-left-radius: 38px;
     border-bottom-right-radius: 38px;
     font-size: var(--size-14);
-    text-align: center;
+    text-align:center;
 }
 
 
