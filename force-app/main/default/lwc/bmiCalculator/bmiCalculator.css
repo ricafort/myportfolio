@@ -59,3 +59,11 @@ input{
 
 }
 
+.custom-button{
+    font-size: var(--size-16) ;
+    padding: var(--size-12);
+    background-color: var(--light-pink);
+    color:var(--light-white);
+    border-color: var(--light-pink);
+}
+
