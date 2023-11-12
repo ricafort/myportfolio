@@ -67,3 +67,8 @@ input{
     border-color: var(--light-pink);
 }
 
+.result-value{
+    color: var(--light-blue);
+    font-size: 30px;
+}
+
