@@ -48,7 +48,7 @@ export default class BmiCalculator extends LightningElement {
             this.result = "Obese"
         }
         
-        console.log("BMI value is", bmi)
+        console.log("BMI value is", this.bmiValue )
         console.log("Result is", this.result)
     }
 }
